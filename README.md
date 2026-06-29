@@ -9,9 +9,9 @@
  - Update and delete book records
  -  ## Technologies Used
  -   Python
-    #How to Run
+#How to Run
    1. Clone this repository.
    2. Open the project in your preferred Python IDE or code editor.
    3. Run the main Python file.
-   4. ## Author
+    ## Author
       Fatima Abid
